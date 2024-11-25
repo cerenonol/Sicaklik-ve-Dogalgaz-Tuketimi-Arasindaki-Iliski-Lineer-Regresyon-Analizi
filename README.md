@@ -35,5 +35,3 @@ Projeyi kendi bilgisayarınızda çalıştırmak için gerekli kütüphaneleri y
 pip install numpy pandas matplotlib scikit-learn
 
 
-Bu **README.md** dosyası, projenizin amacını ve kullandığınız yöntemleri açık ve anlaşılır bir şekilde tanımlar. Aynı zamanda, görselleştirmeler ve sonuçlar hakkında kısa bir bilgi verir ve projeyi çalıştırmak için gerekli adımları belirtir.
-

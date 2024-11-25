@@ -1,0 +1,2 @@
+# Sicaklik-ve-Dogalgaz-Tuketimi-Arasindaki-Iliski-Lineer-Regresyon-Analizi
+Bu proje, şehirlerin yıllık sıcaklık ortalamaları ile doğalgaz tüketimi arasındaki ilişkiyi lineer regresyon modeli kullanarak incelemektedir. Sıcaklık değişimlerinin doğalgaz tüketimi üzerindeki etkisi analiz edilerek regresyon doğruları ve görselleştirmelerle sunulmuştur. Bu çalışma, sıcaklık ortalamalarına dayalı doğru tahminler yapmayı amaçlar.
